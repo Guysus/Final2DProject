@@ -95,7 +95,24 @@
 				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/030.uasset",
 				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/031.uasset",
 				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/032.uasset",
-				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/A_Punch.uasset"
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/A_Punch.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Kick1.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Kick2.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Kick.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Kick3.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Kick4.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/033.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/034.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/035.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/036.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/A_Kick.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Players/BP_First_Player.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/GM_Level_0ne.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/BP_First_Controller.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/InputMappingContext.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Kick.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Punch.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Walk.uasset"
 			]
 		}
 	]
