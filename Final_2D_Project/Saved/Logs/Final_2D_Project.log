@@ -6068,3 +6068,122 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.07-01.01.34:108][734]LogSlate: Window 'A_Run' being destroyed
 [2024.03.07-01.01.34:116][734]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2024.03.07-01.01.34:116][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.07-01.05.28:828][879]LogInterchangeEngine: [Pending] Importing
+[2024.03.07-01.05.28:828][879]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/guyla/Downl...er Grappler Gauntlet/028.png]
+[2024.03.07-01.05.28:828][879]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.07-01.05.28:828][879]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/guyla/Downl...er Grappler Gauntlet/029.png]
+[2024.03.07-01.05.28:829][879]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.07-01.05.28:829][879]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/guyla/Downl...er Grappler Gauntlet/030.png]
+[2024.03.07-01.05.28:829][879]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.03.07-01.05.28:829][879]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/guyla/Downl...er Grappler Gauntlet/031.png]
+[2024.03.07-01.05.28:829][879]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.03.07-01.05.28:829][879]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/guyla/Downl...er Grappler Gauntlet/032.png]
+[2024.03.07-01.05.28:833][880]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.07-01.05.28:834][880]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.07-01.05.28:834][880]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.07-01.05.28:834][880]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.07-01.05.28:834][880]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.07-01.05.28:840][880]LogTexture: Display: Building textures: /Game/Sprites/028.028 (BGRA8, 262x167 x1x1x1) (Required Memory Estimate: 1.342117 MB), EncodeSpeed: Fast
+[2024.03.07-01.05.28:840][880]LogTexture: Display: Building textures: /Game/Sprites/029.029 (BGRA8, 262x167 x1x1x1) (Required Memory Estimate: 1.342117 MB), EncodeSpeed: Fast
+[2024.03.07-01.05.28:841][880]LogTexture: Display: Building textures: /Game/Sprites/030.030 (BGRA8, 262x167 x1x1x1) (Required Memory Estimate: 1.342117 MB), EncodeSpeed: Fast
+[2024.03.07-01.05.28:841][880]LogTexture: Display: Building textures: /Game/Sprites/031.031 (BGRA8, 262x167 x1x1x1) (Required Memory Estimate: 1.342117 MB), EncodeSpeed: Fast
+[2024.03.07-01.05.28:842][880]LogTexture: Display: Building textures: /Game/Sprites/032.032 (BGRA8, 262x167 x1x1x1) (Required Memory Estimate: 1.342117 MB), EncodeSpeed: Fast
+[2024.03.07-01.05.28:844][880]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.03.07-01.05.29:189][880]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.03.07-01.05.29:189][880]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.07-01.05.29:189][880]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.07-01.05.29:189][880]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.03.07-01.05.29:200][880]LogInterchangeEngine: [Success] Import Done
+[2024.03.07-01.05.29:223][881]LogInterchangeEngine: [Success] Import Done
+[2024.03.07-01.07.14:002][544]LogContentBrowser: Attempting asset rename: 028_Sprite -> Punch1
+[2024.03.07-01.07.14:025][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-01.07.14:075][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Punch1" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch1.uasset" SILENT=true
+[2024.03.07-01.07.14:076][544]LogSavePackage: Moving output files for package: /Game/Sprites/Punch1
+[2024.03.07-01.07.14:076][544]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/Punch183EC86E14B7A03FBAD755EA5D9122726.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch1.uasset'
+[2024.03.07-01.07.14:081][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 13.1 sec)
+[2024.03.07-01.07.14:088][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.07-01.07.14:091][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.07-01.07.14:094][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.03.07-01.07.14:095][544]AssetCheck: New page: Asset Save: Punch1
+[2024.03.07-01.07.14:095][544]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Punch1.Punch1
+[2024.03.07-01.07.19:568][195]LogContentBrowser: Attempting asset rename: 029_Sprite -> Punch2
+[2024.03.07-01.07.19:591][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-01.07.19:626][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Punch2" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch2.uasset" SILENT=true
+[2024.03.07-01.07.19:627][195]LogSavePackage: Moving output files for package: /Game/Sprites/Punch2
+[2024.03.07-01.07.19:627][195]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/Punch223AF0A864BDBF4216E4278B0DF8CE578.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch2.uasset'
+[2024.03.07-01.07.19:631][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 13.2 sec)
+[2024.03.07-01.07.19:636][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.07-01.07.19:639][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.07-01.07.19:642][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.03.07-01.07.19:643][195]AssetCheck: New page: Asset Save: Punch2
+[2024.03.07-01.07.19:643][195]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Punch2.Punch2
+[2024.03.07-01.07.24:394][759]LogContentBrowser: Attempting asset rename: 030_Sprite -> Punch3
+[2024.03.07-01.07.24:416][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-01.07.24:476][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Punch3" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch3.uasset" SILENT=true
+[2024.03.07-01.07.24:477][759]LogSavePackage: Moving output files for package: /Game/Sprites/Punch3
+[2024.03.07-01.07.24:477][759]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/Punch34CF2D9594D5B418C6DF433A38806689F.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch3.uasset'
+[2024.03.07-01.07.24:481][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 13.2 sec)
+[2024.03.07-01.07.24:486][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.07-01.07.24:490][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.07-01.07.24:492][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.03.07-01.07.24:493][759]AssetCheck: New page: Asset Save: Punch3
+[2024.03.07-01.07.24:493][759]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Punch3.Punch3
+[2024.03.07-01.07.29:451][348]LogContentBrowser: Attempting asset rename: 031_Sprite -> Punch4
+[2024.03.07-01.07.29:475][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-01.07.29:524][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Punch4" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch4.uasset" SILENT=true
+[2024.03.07-01.07.29:526][348]LogSavePackage: Moving output files for package: /Game/Sprites/Punch4
+[2024.03.07-01.07.29:526][348]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/Punch4FC1C79554414AEB0CADB6AA24554A7E9.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch4.uasset'
+[2024.03.07-01.07.29:530][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 13.3 sec)
+[2024.03.07-01.07.29:535][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.07-01.07.29:539][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.07-01.07.29:541][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.03.07-01.07.29:543][348]AssetCheck: New page: Asset Save: Punch4
+[2024.03.07-01.07.29:543][348]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Punch4.Punch4
+[2024.03.07-01.07.37:960][352]LogContentBrowser: Attempting asset rename: 032_Sprite -> Punch5
+[2024.03.07-01.07.37:982][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-01.07.38:042][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Punch5" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch5.uasset" SILENT=true
+[2024.03.07-01.07.38:043][352]LogSavePackage: Moving output files for package: /Game/Sprites/Punch5
+[2024.03.07-01.07.38:043][352]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/Punch555BEA1B34FE3B9A3820A7495363317E1.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/Punch5.uasset'
+[2024.03.07-01.07.38:047][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 13.4 sec)
+[2024.03.07-01.07.38:052][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.07-01.07.38:055][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.07-01.07.38:058][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.03.07-01.07.38:059][352]AssetCheck: New page: Asset Save: Punch5
+[2024.03.07-01.07.38:059][352]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Punch5.Punch5
+[2024.03.07-01.07.51:380][917]LogContentBrowser: Deferred new asset file creation: Punch
+[2024.03.07-01.07.51:400][917]LogContentBrowser: Creating deferred item: Punch
+[2024.03.07-01.07.51:435][918]LogContentBrowser: Renaming the item being created (Deferred Item: Punch).
+[2024.03.07-01.07.57:011][587]LogContentBrowser: Attempting asset rename: Punch -> A_Punch
+[2024.03.07-01.07.57:012][587]LogContentBrowser: End creating deferred item Punch
+[2024.03.07-01.08.16:668][939]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/A_Punch.A_Punch
+[2024.03.07-01.08.16:669][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.07-01.08.16:669][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.07-01.08.16:778][939]LogViewport: Scene viewport resized to 1952x1201, mode Windowed.
+[2024.03.07-01.08.37:984][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.07-01.08.37:987][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-01.08.38:023][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/028" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/028.uasset" SILENT=true
+[2024.03.07-01.08.38:025][460]LogSavePackage: Moving output files for package: /Game/Sprites/028
+[2024.03.07-01.08.38:025][460]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/028232489F44C272F56260E239C99683D10.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/028.uasset'
+[2024.03.07-01.08.38:027][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/029" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/029.uasset" SILENT=true
+[2024.03.07-01.08.38:028][460]LogSavePackage: Moving output files for package: /Game/Sprites/029
+[2024.03.07-01.08.38:028][460]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/0294D6D37F347BC4BFD82D6FD9CBD6FD4B9.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/029.uasset'
+[2024.03.07-01.08.38:030][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/030" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/030.uasset" SILENT=true
+[2024.03.07-01.08.38:031][460]LogSavePackage: Moving output files for package: /Game/Sprites/030
+[2024.03.07-01.08.38:031][460]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/030899116414BB46E33EF339D99AD7EFE8E.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/030.uasset'
+[2024.03.07-01.08.38:033][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/031" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/031.uasset" SILENT=true
+[2024.03.07-01.08.38:034][460]LogSavePackage: Moving output files for package: /Game/Sprites/031
+[2024.03.07-01.08.38:034][460]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/031C434DC4045BE5D680C1849A663F12290.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/031.uasset'
+[2024.03.07-01.08.38:036][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/032" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/032.uasset" SILENT=true
+[2024.03.07-01.08.38:037][460]LogSavePackage: Moving output files for package: /Game/Sprites/032
+[2024.03.07-01.08.38:037][460]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/032EEC462624689390D9A6A9D813BCDCE24.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/032.uasset'
+[2024.03.07-01.08.38:039][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/A_Punch" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/A_Punch.uasset" SILENT=true
+[2024.03.07-01.08.38:039][460]LogSavePackage: Moving output files for package: /Game/Sprites/A_Punch
+[2024.03.07-01.08.38:040][460]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/A_Punch8A8DA9104F4DD754B6EA80B26A78A2FC.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Sprites/A_Punch.uasset'
+[2024.03.07-01.08.38:045][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 13.4 sec)
+[2024.03.07-01.08.38:046][460]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/028.028
+[2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/029.029
+[2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/030.030
+[2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/031.031
+[2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/032.032
+[2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Sprites/A_Punch.A_Punch
