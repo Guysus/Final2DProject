@@ -112,7 +112,9 @@
 				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/InputMappingContext.uasset",
 				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Kick.uasset",
 				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Punch.uasset",
-				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Walk.uasset"
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Walk.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Walk_Left_Right.uasset",
+				"D:/Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/IA_Walk_Up_Down.uasset"
 			]
 		}
 	]
