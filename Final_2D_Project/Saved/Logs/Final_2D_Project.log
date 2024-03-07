@@ -6187,3 +6187,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/031.031
 [2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sprites/032.032
 [2024.03.07-01.08.38:046][460]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Sprites/A_Punch.A_Punch
+[2024.03.07-01.09.02:093][358]LogSlate: Window 'A_Punch' being destroyed
+[2024.03.07-01.09.02:096][358]LogSlate: Window 'A_Punch' being destroyed
+[2024.03.07-01.09.02:104][358]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.03.07-01.09.02:104][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
