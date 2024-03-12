@@ -6890,3 +6890,1333 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.12-20.28.43:205][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 598 ms)
 [2024.03.12-20.28.43:206][988]AssetCheck: New page: Asset Save: WB_Controls
 [2024.03.12-20.28.43:206][988]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Controls.WB_Controls
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950900 [serially])
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 6 (Closing connection)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 9 (  Trying 54.157.10.6:443...)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.157.10.6) port 443)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 34 (Closing connection)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: 000005C94298D200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.34.06:510][257]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950600 [serially])
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 6 (Closing connection)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 9 (  Trying 54.146.52.44:443...)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.146.52.44) port 443)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 34 (Closing connection)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: 000005C94298A500: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.38.06:727][983]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-20.39.42:830][710]LogInterchangeEngine: [Pending] Importing
+[2024.03.12-20.39.42:830][710]LogInterchangeEngine: Display: Interchange start importing source [D:/Unreal Projects/Final2DProject/Images/mouse.png]
+[2024.03.12-20.39.42:832][710]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.12-20.39.42:835][711]LogTexture: Display: Building textures: /Game/Widgets/mouse.mouse (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.03.12-20.39.42:859][711]LogInterchangeEngine: [Success] Import Done
+[2024.03.12-20.39.42:862][711]LogInterchangeEngine: [Success] Import Done
+[2024.03.12-20.39.43:216][712]LogInterchangeEngine: [Success] Import Done
+[2024.03.12-20.39.56:725][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.12-20.39.58:227][825]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.12-20.39.58:254][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.12-20.39.58:274][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.12-20.39.58:294][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 0 (Found bundle for host: 0x5c8bd9502a0 [serially])
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 6 (Closing connection)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 9 (  Trying 34.239.74.5:443...)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.239.74.5) port 443)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-20.45.06:519][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 34 (Closing connection)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: 000005C937977D00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.45.06:520][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-20.46.45:543][659]LogInterchangeEngine: [Pending] Importing
+[2024.03.12-20.46.45:543][659]LogInterchangeEngine: Display: Interchange start importing source [D:/Unreal Projects/Final2DProject/Images/Slide2.jpg]
+[2024.03.12-20.46.45:544][659]LogInterchangeImport: JPEG file [D:/Unreal Projects/Final2DProject/Images/Slide2.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.03.12-20.46.45:554][660]LogTexture: Display: Building textures: /Game/Widgets/Slide2.Slide2 (TFO_AutoDXT, 1280x720 x1x1x1) (Required Memory Estimate: 118.65625 MB), EncodeSpeed: Fast
+[2024.03.12-20.46.45:582][660]LogInterchangeEngine: [Success] Import Done
+[2024.03.12-20.46.45:585][660]LogInterchangeEngine: [Success] Import Done
+[2024.03.12-20.46.45:940][661]LogInterchangeEngine: [Success] Import Done
+[2024.03.12-20.47.07:368][673]LogContentBrowser: Attempting asset rename: Slide2 -> Mouse
+[2024.03.12-20.47.07:391][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.47.07:443][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Mouse" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/Mouse.uasset" SILENT=true
+[2024.03.12-20.47.07:447][673]LogSavePackage: Moving output files for package: /Game/Widgets/Mouse
+[2024.03.12-20.47.07:447][673]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/Mouse9DBC38034CC7625BBA4ED397EB86F10E.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/Mouse.uasset'
+[2024.03.12-20.47.07:451][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 658 ms)
+[2024.03.12-20.47.07:482][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.12-20.47.07:505][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.12-20.47.07:521][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.12-20.47.07:523][673]AssetCheck: New page: Asset Save: Mouse
+[2024.03.12-20.47.07:523][673]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Widgets/Mouse.Mouse
+[2024.03.12-20.48.14:712][144]BlueprintLog: New page: Compile WB_Controls
+[2024.03.12-20.48.14:744][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.12-20.48.14:837][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.48.14:891][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Controls" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset" SILENT=true
+[2024.03.12-20.48.14:894][144]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Controls
+[2024.03.12-20.48.14:894][144]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_ControlsEADED5B048B80CBA0ACA5D99E1E97282.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset'
+[2024.03.12-20.48.14:898][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 719 ms)
+[2024.03.12-20.48.14:906][144]AssetCheck: New page: Asset Save: WB_Controls
+[2024.03.12-20.48.14:906][144]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Controls.WB_Controls
+[2024.03.12-20.49.54:575][936]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.12-20.50.08:568][570]BlueprintLog: New page: Compile WB_Controls
+[2024.03.12-20.50.08:601][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.12-20.50.08:705][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.50.08:757][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Controls" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset" SILENT=true
+[2024.03.12-20.50.08:760][570]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Controls
+[2024.03.12-20.50.08:760][570]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_ControlsE42B248F403F8D6C47FAB3B1104D265C.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset'
+[2024.03.12-20.50.08:764][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 778 ms)
+[2024.03.12-20.50.08:772][570]AssetCheck: New page: Asset Save: WB_Controls
+[2024.03.12-20.50.08:772][570]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Controls.WB_Controls
+[2024.03.12-20.50.18:992][740]BlueprintLog: New page: Compile WB_Controls
+[2024.03.12-20.50.19:024][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.12-20.50.19:168][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.50.19:206][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Controls" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset" SILENT=true
+[2024.03.12-20.50.19:209][740]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Controls
+[2024.03.12-20.50.19:210][740]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_ControlsA905F1194DE0C77F19B6FFB041045EFF.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset'
+[2024.03.12-20.50.19:214][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 823 ms)
+[2024.03.12-20.50.19:225][740]AssetCheck: New page: Asset Save: WB_Controls
+[2024.03.12-20.50.19:225][740]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Controls.WB_Controls
+[2024.03.12-20.51.00:694][532]BlueprintLog: New page: Compile WB_Controls
+[2024.03.12-20.51.00:727][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.12-20.51.00:735][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.51.00:789][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Controls" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset" SILENT=true
+[2024.03.12-20.51.00:793][532]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Controls
+[2024.03.12-20.51.00:793][532]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_Controls59BB2940473E8DA93F9C5AA64A6B7D1B.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Controls.uasset'
+[2024.03.12-20.51.00:798][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 885 ms)
+[2024.03.12-20.51.00:799][532]AssetCheck: New page: Asset Save: WB_Controls
+[2024.03.12-20.51.00:799][532]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Controls.WB_Controls
+[2024.03.12-20.51.12:558][905]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.12-20.51.12:563][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.12-20.51.12:563][905]PIE: New page: PIE session: Main_Menu (Mar. 12, 2024, 6:51:12 a.m.)
+[2024.03.12-20.51.12:563][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Menu
+[2024.03.12-20.51.12:564][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000836s)
+[2024.03.12-20.51.12:564][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Menu.Main_Menu to /Game/Maps/UEDPIE_0_Main_Menu.Main_Menu (0.000860s)
+[2024.03.12-20.51.12:586][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.12-20.51.12:589][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-20.51.12:589][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-20.51.12:590][905]LogAIModule: Creating AISystem for world Main_Menu
+[2024.03.12-20.51.12:590][905]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2024.03.12-20.51.12:590][905]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.12-20.51.12:590][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.12-20.51.12:590][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.12-20.51.12:590][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.12-20.51.12:590][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.12-20.51.12:590][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.12-20.51.12:592][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.12-20.51.12:611][905]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.12-20.51.12:611][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.12-20.51.12:611][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.12-20.51.12:611][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.12-20.51.12:612][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.12-20.51.12:612][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.12-20.51.12:613][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.12-20.51.12:613][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.12-20.51.12:613][905]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.12-20.51.12:613][905]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Menu'.
+[2024.03.12-20.51.12:613][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.12-20.51.12:676][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-20.51.12:676][905]LogLoad: Game class is 'GM_Main_Menu_C'
+[2024.03.12-20.51.12:676][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2024.03.12-13.51.12
+[2024.03.12-20.51.12:676][905]LogWorld: Bringing up level for play took: 0.000296
+[2024.03.12-20.51.12:678][905]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.03.12-20.51.12:679][905]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.12-20.51.12:679][905]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.12-20.51.12:681][905]PIE: Server logged in
+[2024.03.12-20.51.12:683][905]PIE: Play in editor total start time 0.119 seconds.
+[2024.03.12-20.51.12:696][905]LogViewport: Scene viewport resized to 3843x2180, mode Windowed.
+[2024.03.12-20.51.53:618][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-20.51.53:618][614]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Menu
+[2024.03.12-20.51.53:618][614]LogSlate: Window 'Final_2D_Project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.12-20.51.53:623][614]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.03.12-20.51.53:623][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-20.51.53:625][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.12-20.51.53:628][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-20.51.53:648][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.12-20.51.53:648][614]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.12-20.51.53:648][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.12-20.51.53:650][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.12-20.51.53:655][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.12-20.51.53:679][616]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950c60 [serially])
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 6 (Closing connection)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 9 (  Trying 34.233.15.76:443...)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.233.15.76) port 443)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 34 (Closing connection)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: 000005C954454600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.52.06:236][ 69]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-20.52.50:980][259]BlueprintLog: New page: Compile WB_Options_Menu
+[2024.03.12-20.52.51:016][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.12-20.52.51:174][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.52.51:204][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Options_Menu" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Options_Menu.uasset" SILENT=true
+[2024.03.12-20.52.51:208][259]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Options_Menu
+[2024.03.12-20.52.51:208][259]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_Options_Menu425447F74ED8A42218189FBEFBDA14C3.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Options_Menu.uasset'
+[2024.03.12-20.52.51:213][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 924 ms)
+[2024.03.12-20.52.51:233][259]AssetCheck: New page: Asset Save: WB_Options_Menu
+[2024.03.12-20.52.51:233][259]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Options_Menu.WB_Options_Menu
+[2024.03.12-20.54.03:850][708]BlueprintLog: New page: Compile WB_Options_Menu
+[2024.03.12-20.54.03:852][708]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\Final2DProject\Final_2D_Project\Content\Widgets\WB_Options_Menu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.03.12-20.54.03:888][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.12-20.54.08:900][268]BlueprintLog: New page: Compile WB_Options_Menu
+[2024.03.12-20.54.08:934][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.12-20.54.09:098][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-20.54.09:136][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Options_Menu" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Options_Menu.uasset" SILENT=true
+[2024.03.12-20.54.09:141][268]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Options_Menu
+[2024.03.12-20.54.09:141][268]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_Options_Menu3D792CF84843C3EF2D1FCD912BDDE2CA.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Options_Menu.uasset'
+[2024.03.12-20.54.09:145][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 971 ms)
+[2024.03.12-20.54.09:166][268]AssetCheck: New page: Asset Save: WB_Options_Menu
+[2024.03.12-20.54.09:167][268]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Options_Menu.WB_Options_Menu
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950300 [serially])
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 6 (Closing connection)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 9 (  Trying 52.73.112.100:443...)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.73.112.100) port 443)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-20.57.06:746][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 34 (Closing connection)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: 000005C95A12A000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-20.57.06:747][ 64]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-20.59.37:325][508]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.12-21.00.23:764][ 65]BlueprintLog: New page: Compile WB_Options_Menu
+[2024.03.12-21.00.23:804][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.12-21.00.24:064][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-21.00.24:112][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Options_Menu" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Options_Menu.uasset" SILENT=true
+[2024.03.12-21.00.24:117][ 65]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Options_Menu
+[2024.03.12-21.00.24:117][ 65]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_Options_Menu23A626354B29216AF17F46B30C6B89C6.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Widgets/WB_Options_Menu.uasset'
+[2024.03.12-21.00.24:121][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.02 sec)
+[2024.03.12-21.00.24:151][ 65]AssetCheck: New page: Asset Save: WB_Options_Menu
+[2024.03.12-21.00.24:151][ 65]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_Options_Menu.WB_Options_Menu
+[2024.03.12-21.01.09:655][456]BlueprintLog: New page: Compile WB_Controls
+[2024.03.12-21.01.09:688][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950300 [serially])
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 6 (Closing connection)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 9 (  Trying 35.153.109.137:443...)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (35.153.109.137) port 443)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 34 (Closing connection)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: 000005C94AA4B400: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-21.03.06:226][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-21.03.09:114][647]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.12-21.03.30:744][144]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.12-21.04.31:252][344]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.12-21.04.39:969][380]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 2755778527705783116
+[2024.03.12-21.04.39:969][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-21.04.39:975][381]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.12-21.04.39:975][381]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.12-21.04.39:978][381]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.12-21.04.39:980][381]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.12-21.04.39:986][381]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.12-21.05.37:784][298]BlueprintLog: New page: Compile WB_Main_Menu
+[2024.03.12-21.05.37:819][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.12-21.05.37:940][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-21.05.38:008][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_Main_Menu" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/WB_Main_Menu.uasset" SILENT=true
+[2024.03.12-21.05.38:015][298]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_Main_Menu
+[2024.03.12-21.05.38:015][298]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_Main_MenuE7C2833B49DD36ACB65434A019B4A35C.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/WB_Main_Menu.uasset'
+[2024.03.12-21.05.38:020][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.10 sec)
+[2024.03.12-21.05.38:029][298]AssetCheck: New page: Asset Save: WB_Main_Menu
+[2024.03.12-21.05.38:029][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_Main_Menu.WB_Main_Menu
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950390 [serially])
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 6 (Closing connection)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 9 (  Trying 34.239.74.5:443...)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.239.74.5) port 443)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 34 (Closing connection)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: 000005C934BEBE00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-21.06.06:248][657]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 0 (Found bundle for host: 0x5c8bd950390 [serially])
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 6 (Closing connection)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 9 (  Trying 18.213.206.237:443...)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.213.206.237) port 443)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 25 (Server certificate:)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 34 (Closing connection)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: 000005C95AFF6E00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.12-21.09.06:243][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD748C79B-430E-64C1-3942-B28E02AA2964%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=79dc1a74485dbdf4d684aea1320d8297%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cb805aafc-1379-4785-8065-c0515a71fc48&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.12-21.09.22:353][ 48]BlueprintLog: New page: Compile WB_Main_Menu
+[2024.03.12-21.09.22:389][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.12-21.09.22:509][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.12-21.09.22:552][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_Main_Menu" FILE="../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/WB_Main_Menu.uasset" SILENT=true
+[2024.03.12-21.09.22:559][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_Main_Menu
+[2024.03.12-21.09.22:559][ 48]LogSavePackage: Moving '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Saved/WB_Main_Menu71FC807F435DFC91232C2D879ABB9276.tmp' to '../../../../Unreal Projects/Final2DProject/Final_2D_Project/Content/Blueprints/WB_Main_Menu.uasset'
+[2024.03.12-21.09.22:563][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.16 sec)
+[2024.03.12-21.09.22:572][ 48]AssetCheck: New page: Asset Save: WB_Main_Menu
+[2024.03.12-21.09.22:572][ 48]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_Main_Menu.WB_Main_Menu
+[2024.03.12-21.09.31:595][106]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.12-21.09.31:600][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.12-21.09.31:600][106]PIE: New page: PIE session: Main_Menu (Mar. 12, 2024, 7:09:31 a.m.)
+[2024.03.12-21.09.31:600][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Menu
+[2024.03.12-21.09.31:601][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000858s)
+[2024.03.12-21.09.31:601][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Menu.Main_Menu to /Game/Maps/UEDPIE_0_Main_Menu.Main_Menu (0.000881s)
+[2024.03.12-21.09.31:623][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.12-21.09.31:625][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-21.09.31:625][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-21.09.31:625][106]LogAIModule: Creating AISystem for world Main_Menu
+[2024.03.12-21.09.31:626][106]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2024.03.12-21.09.31:626][106]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.12-21.09.31:626][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.12-21.09.31:626][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.12-21.09.31:626][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.12-21.09.31:626][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.12-21.09.31:626][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.12-21.09.31:628][106]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.12-21.09.31:646][106]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.12-21.09.31:646][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.12-21.09.31:646][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.12-21.09.31:646][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.12-21.09.31:647][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.12-21.09.31:647][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.12-21.09.31:648][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.12-21.09.31:648][106]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.12-21.09.31:648][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.12-21.09.31:648][106]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Menu'.
+[2024.03.12-21.09.31:648][106]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.12-21.09.31:704][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-21.09.31:704][106]LogLoad: Game class is 'GM_Main_Menu_C'
+[2024.03.12-21.09.31:704][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2024.03.12-14.09.31
+[2024.03.12-21.09.31:704][106]LogWorld: Bringing up level for play took: 0.000289
+[2024.03.12-21.09.31:706][106]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.03.12-21.09.31:708][106]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.12-21.09.31:708][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.12-21.09.31:709][106]PIE: Server logged in
+[2024.03.12-21.09.31:711][106]PIE: Play in editor total start time 0.111 seconds.
+[2024.03.12-21.09.31:726][106]LogViewport: Scene viewport resized to 3846x2200, mode Windowed.
+[2024.03.12-21.09.31:753][107]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 34727
+[2024.03.12-21.09.31:754][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-21.09.31:858][108]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.12-21.09.31:860][108]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.12-21.09.31:863][108]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.12-21.09.45:592][ 19]LogViewport: Scene viewport resized to 3840x2109, mode Windowed.
+[2024.03.12-21.10.14:190][835]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.12-21.10.14:190][835]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.12-21.10.14:191][835]LogNet: Browse: /Game/Maps/Level_01
+[2024.03.12-21.10.14:191][835]LogLoad: LoadMap: /Game/Maps/Level_01
+[2024.03.12-21.10.14:191][835]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Menu
+[2024.03.12-21.10.14:192][835]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.03.12-21.10.14:192][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-21.10.14:213][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.12-21.10.14:215][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.12-21.10.14:219][835]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_01'.
+[2024.03.12-21.10.14:219][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.12-21.10.14:219][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-21.10.14:220][835]LogAIModule: Creating AISystem for world Level_01
+[2024.03.12-21.10.14:220][835]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2024.03.12-21.10.14:220][835]LogLoad: Game class is 'GM_Level_0ne_C'
+[2024.03.12-21.10.14:223][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.03.12-14.10.14
+[2024.03.12-21.10.14:223][835]LogWorld: Bringing up level for play took: 0.003080
+[2024.03.12-21.10.14:243][835]LogLoad: Took 0.051795 seconds to LoadMap(/Game/Maps/Level_01)
+[2024.03.12-21.10.14:243][835]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:266][836]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:274][837]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:282][838]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:291][839]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:299][840]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:307][841]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:316][842]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:324][843]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:332][844]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:341][845]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:349][846]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:357][847]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:365][848]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:374][849]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:382][850]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:390][851]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:399][852]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:407][853]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:416][854]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:424][855]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:432][856]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:440][857]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:449][858]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:457][859]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:465][860]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:474][861]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:482][862]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:490][863]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:499][864]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:507][865]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:515][866]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:524][867]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:532][868]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:540][869]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:549][870]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:557][871]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:565][872]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:574][873]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:582][874]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:590][875]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:599][876]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:607][877]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:615][878]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:624][879]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:632][880]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:640][881]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:649][882]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:657][883]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:665][884]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:674][885]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:682][886]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:690][887]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:699][888]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:707][889]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:715][890]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:724][891]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:732][892]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:740][893]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:749][894]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:757][895]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:765][896]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:774][897]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:782][898]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:790][899]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:799][900]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:807][901]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:815][902]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:824][903]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:832][904]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:840][905]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:849][906]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:857][907]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:865][908]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:873][909]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:882][910]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:890][911]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:898][912]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:907][913]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:915][914]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:923][915]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:932][916]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:940][917]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:949][918]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:958][919]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:966][920]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:974][921]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:983][922]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:991][923]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.14:999][924]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:008][925]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:016][926]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:024][927]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:033][928]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:041][929]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:049][930]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:058][931]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:066][932]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:074][933]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:083][934]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:091][935]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:099][936]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:108][937]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:116][938]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:124][939]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:133][940]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:141][941]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:149][942]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:158][943]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:166][944]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:174][945]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:183][946]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:191][947]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:199][948]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:207][949]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:216][950]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:224][951]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:233][952]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:241][953]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:249][954]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:257][955]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:266][956]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:274][957]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:282][958]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:291][959]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:299][960]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:307][961]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:316][962]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:324][963]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:332][964]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:341][965]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:349][966]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:357][967]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:366][968]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:374][969]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:382][970]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:391][971]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:399][972]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:407][973]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:416][974]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:424][975]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:432][976]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:441][977]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:449][978]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:457][979]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:466][980]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:474][981]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:482][982]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:491][983]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:499][984]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:507][985]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:516][986]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:524][987]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:532][988]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:541][989]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:549][990]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:557][991]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:566][992]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:574][993]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:582][994]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:590][995]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:599][996]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:607][997]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:616][998]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:624][999]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:632][  0]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:640][  1]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:649][  2]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:657][  3]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:665][  4]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:674][  5]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:682][  6]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:692][  7]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:699][  8]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:707][  9]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:715][ 10]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:724][ 11]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:732][ 12]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:740][ 13]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:749][ 14]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:757][ 15]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:765][ 16]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:774][ 17]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:782][ 18]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:790][ 19]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:799][ 20]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:807][ 21]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:815][ 22]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:824][ 23]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:832][ 24]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:840][ 25]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:849][ 26]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:857][ 27]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:866][ 28]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:874][ 29]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:882][ 30]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:890][ 31]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:899][ 32]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:907][ 33]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:915][ 34]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:924][ 35]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:932][ 36]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:940][ 37]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:949][ 38]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:957][ 39]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:965][ 40]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:974][ 41]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:982][ 42]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:990][ 43]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.15:999][ 44]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:007][ 45]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:015][ 46]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:024][ 47]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:032][ 48]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:040][ 49]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:050][ 50]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:058][ 51]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:066][ 52]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:075][ 53]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:083][ 54]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:091][ 55]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:099][ 56]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:108][ 57]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:116][ 58]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:124][ 59]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:133][ 60]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:141][ 61]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:149][ 62]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:158][ 63]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:166][ 64]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:174][ 65]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:183][ 66]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:191][ 67]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:199][ 68]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:208][ 69]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:216][ 70]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:224][ 71]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:233][ 72]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:241][ 73]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:249][ 74]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:257][ 75]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:266][ 76]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:274][ 77]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:283][ 78]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:291][ 79]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:299][ 80]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:308][ 81]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:316][ 82]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:324][ 83]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:332][ 84]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:341][ 85]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:349][ 86]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:357][ 87]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:366][ 88]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:374][ 89]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:383][ 90]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:391][ 91]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:399][ 92]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:407][ 93]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:416][ 94]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:424][ 95]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:432][ 96]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:441][ 97]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:449][ 98]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:457][ 99]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:466][100]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:474][101]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:482][102]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:491][103]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:499][104]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:508][105]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:516][106]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:524][107]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:532][108]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:541][109]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:549][110]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:557][111]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:566][112]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:574][113]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:583][114]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:591][115]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:599][116]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:607][117]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:616][118]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:624][119]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:632][120]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:641][121]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:649][122]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:657][123]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:666][124]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:674][125]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:682][126]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:691][127]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:699][128]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:707][129]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:716][130]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:724][131]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:732][132]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:741][133]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:749][134]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:757][135]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:766][136]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:774][137]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:784][138]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:790][139]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:799][140]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:807][141]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:816][142]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:824][143]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:832][144]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:841][145]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:849][146]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:857][147]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:866][148]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:874][149]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:882][150]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:890][151]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:899][152]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:907][153]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:915][154]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:924][155]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:932][156]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:941][157]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:949][158]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:957][159]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:965][160]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:974][161]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:982][162]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:991][163]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.16:999][164]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:007][165]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:015][166]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:024][167]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:032][168]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:040][169]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:049][170]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:057][171]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:066][172]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:074][173]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:082][174]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:090][175]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:099][176]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:107][177]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:115][178]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:124][179]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:132][180]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:141][181]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:149][182]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:157][183]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:165][184]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:174][185]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:182][186]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:190][187]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:199][188]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:207][189]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:216][190]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:224][191]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:232][192]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:240][193]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:249][194]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:257][195]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:265][196]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:274][197]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:282][198]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:290][199]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:299][200]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:307][201]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:315][202]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:324][203]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:332][204]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:340][205]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:349][206]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:357][207]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:365][208]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:374][209]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:382][210]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:390][211]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:399][212]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:407][213]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:415][214]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:423][215]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:432][216]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:440][217]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:449][218]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:457][219]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:465][220]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:473][221]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:482][222]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:490][223]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:498][224]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:507][225]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:515][226]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:523][227]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:532][228]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:540][229]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:548][230]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:557][231]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:565][232]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:573][233]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:583][234]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:591][235]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:599][236]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:608][237]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:616][238]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:624][239]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:633][240]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:641][241]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:649][242]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:658][243]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:666][244]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:674][245]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:683][246]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:691][247]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:699][248]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:708][249]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:716][250]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:724][251]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:733][252]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:741][253]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:749][254]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:758][255]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:766][256]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:774][257]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:783][258]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:791][259]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:799][260]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:808][261]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:816][262]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:824][263]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:833][264]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:841][265]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:849][266]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:858][267]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:866][268]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:874][269]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:882][270]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:891][271]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:899][272]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:907][273]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:916][274]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:924][275]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:932][276]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:941][277]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:949][278]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:957][279]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:966][280]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:974][281]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:982][282]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:991][283]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.17:999][284]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:007][285]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:015][286]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:023][287]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:032][288]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:040][289]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:049][290]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:057][291]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:065][292]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:073][293]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:082][294]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:090][295]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:098][296]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:107][297]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:115][298]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:124][299]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:133][300]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:141][301]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:149][302]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:158][303]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:166][304]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:174][305]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:183][306]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:191][307]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:199][308]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:208][309]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:216][310]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:224][311]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:233][312]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:241][313]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:249][314]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:258][315]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:266][316]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:274][317]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:283][318]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:291][319]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:299][320]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:308][321]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:316][322]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:324][323]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:333][324]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:341][325]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:349][326]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:358][327]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:366][328]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:374][329]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:383][330]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:391][331]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:399][332]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:407][333]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:415][334]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:424][335]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:432][336]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:440][337]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:449][338]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:457][339]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:465][340]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:474][341]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:482][342]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:490][343]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:498][344]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:507][345]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:516][346]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:524][347]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:533][348]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:541][349]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:550][350]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:558][351]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:566][352]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:576][353]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:583][354]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:591][355]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:599][356]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:608][357]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:616][358]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:624][359]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:633][360]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:641][361]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:649][362]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:658][363]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:666][364]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:674][365]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:683][366]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:691][367]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:699][368]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:708][369]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:716][370]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:724][371]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:733][372]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:741][373]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:749][374]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:758][375]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:766][376]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:774][377]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:783][378]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:791][379]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:799][380]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:808][381]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:816][382]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:824][383]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:833][384]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:841][385]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:849][386]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:857][387]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:866][388]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:874][389]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:882][390]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:891][391]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:899][392]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:907][393]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:916][394]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:924][395]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:932][396]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:941][397]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:949][398]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:957][399]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:966][400]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:974][401]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:982][402]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:991][403]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.18:999][404]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:007][405]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:016][406]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:024][407]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:032][408]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:041][409]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:049][410]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:057][411]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:066][412]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:074][413]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:082][414]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:091][415]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:099][416]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:107][417]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:116][418]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:124][419]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:132][420]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:141][421]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:149][422]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:157][423]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:166][424]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:174][425]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:182][426]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:191][427]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:199][428]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:207][429]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:216][430]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:224][431]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:233][432]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:241][433]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:249][434]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:257][435]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:266][436]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:274][437]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:282][438]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:290][439]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:299][440]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:307][441]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:315][442]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:324][443]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:332][444]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:340][445]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:349][446]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:357][447]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:365][448]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:374][449]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:382][450]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:390][451]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:399][452]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:407][453]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:415][454]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:424][455]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:432][456]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:440][457]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:449][458]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:457][459]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:465][460]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:474][461]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:482][462]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:491][463]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:499][464]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:508][465]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:516][466]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:524][467]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:533][468]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:541][469]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:550][470]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:558][471]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:566][472]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:575][473]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:583][474]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:591][475]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:599][476]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:608][477]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:616][478]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:624][479]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:633][480]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:641][481]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:649][482]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:659][483]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:666][484]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:674][485]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:683][486]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:691][487]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:699][488]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:708][489]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:716][490]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:724][491]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:733][492]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:741][493]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:749][494]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:758][495]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:766][496]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:774][497]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:783][498]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:791][499]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:799][500]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:808][501]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:816][502]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:824][503]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:833][504]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:841][505]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:849][506]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:858][507]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:866][508]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:874][509]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:883][510]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:891][511]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:899][512]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:907][513]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:916][514]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:924][515]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:932][516]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:941][517]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:949][518]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:957][519]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:966][520]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:974][521]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:982][522]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:991][523]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.19:999][524]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:007][525]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:016][526]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:024][527]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:032][528]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:041][529]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:049][530]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:057][531]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:065][532]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:074][533]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:082][534]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:091][535]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:099][536]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:107][537]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:115][538]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:124][539]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:132][540]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:140][541]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:149][542]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:157][543]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:165][544]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:174][545]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:182][546]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:190][547]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:199][548]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:207][549]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:215][550]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:224][551]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:232][552]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:240][553]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:249][554]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:257][555]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:265][556]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:274][557]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:282][558]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:290][559]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:299][560]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:307][561]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:315][562]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:324][563]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:332][564]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:341][565]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:350][566]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:358][567]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:366][568]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:375][569]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:383][570]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:391][571]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:399][572]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:408][573]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:416][574]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:424][575]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:433][576]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:441][577]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:449][578]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:458][579]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:466][580]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:474][581]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:483][582]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:491][583]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:499][584]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:508][585]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:516][586]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:524][587]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:533][588]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:541][589]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:550][590]LogBlueprintUserMessages: [BP_First_Player_C_0] Hello
+[2024.03.12-21.10.20:579][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-21.10.20:579][590]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2024.03.12-21.10.20:579][590]LogSlate: Window 'Final_2D_Project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.12-21.10.20:582][590]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.03.12-21.10.20:583][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-21.10.20:584][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.12-21.10.20:588][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-21.10.20:609][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.12-21.10.20:609][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.12-21.10.20:610][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.12-21.10.20:616][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.12-21.10.20:650][593]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.03.12-21.10.24:544][ 58]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.12-21.10.24:570][ 59]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.12-21.10.25:571][172]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
